@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXPECTED_TRAVIS_REPO_SLUG="code-schreiber/TwoHourChallenge
+EXPECTED_TRAVIS_REPO_SLUG="code-schreiber/TwoHourChallenge"
 EXPECTED_TRAVIS_BRANCH="master"
 
 # Script should bail on first error
