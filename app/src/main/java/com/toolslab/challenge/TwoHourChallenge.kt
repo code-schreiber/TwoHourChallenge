@@ -1,6 +1,7 @@
 package com.toolslab.challenge
 
 import com.facebook.drawee.backends.pipeline.Fresco
+import com.toolslab.challenge.base_repository.di.DaggerRepositoryComponent
 import com.toolslab.challenge.di.DaggerAppComponent
 import dagger.android.AndroidInjector
 import dagger.android.DaggerApplication
